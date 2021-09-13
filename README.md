@@ -4,9 +4,9 @@
 
 <!-- Imagens do Projeto -->
 <div align="center">
-<img width="584px" height="372px" src="img.png"/> <br>
+<img  src="img.jpg"/> <br>
 <!-- Atribuições-->
-Desafio feito por <a href="https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29"><em>Frontend Mentor</em></a>
+Base XML from <a href="https://stackoverflow.com/users/1555581/elmestre"><em>elMestre</em><a/> in <a href="https://www.ti-enxame.com/pt/themes/mysql-workbench-dark-theme/1073024396/"><em>ti-enxame.com</em</a>
 </div>
 
 <hr></hr>    
